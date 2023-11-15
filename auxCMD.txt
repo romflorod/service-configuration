@@ -1,1 +1,2 @@
 vault kv put secret/pedido-microservice @pedido-microservice.json
+vault kv put secret/menu-microservice @menu-microservice.json
